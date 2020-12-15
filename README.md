@@ -34,6 +34,28 @@
 ![11](https://user-images.githubusercontent.com/54871612/102211879-a0d45600-3f17-11eb-841d-9faa1a076888.png)
 * 전처리 및 시각화
 
+![6](https://user-images.githubusercontent.com/54871612/102212722-fbba7d00-3f18-11eb-9225-f650c978fab5.png)
+
+
+#### 2) 분석한 데이터를 통해 비즈니스 아이디어인 "FLOW" 제시
+* 기존 카드상품에는 미세먼지에 특화된 상품이 없었기에 AI 기반 최적의 혜택을 주는 카드 [FLOW]
+![FLOW](https://user-images.githubusercontent.com/54871612/102212501-aed6a680-3f18-11eb-967d-76e625748714.png)
+
+#### 3) 서비스 아키텍쳐 및 기술
+![9](https://user-images.githubusercontent.com/54871612/102212577-cb72de80-3f18-11eb-8f35-d9e397e12a93.png)
+* 각 데이터별로 예측을 통해서 최종적으로 유동인구를 예측하고 업종별 매출 증감률을 예측
+
+![5](https://user-images.githubusercontent.com/54871612/102212795-1ab90f00-3f19-11eb-810a-f9a8c610e9d3.png)
+* Word2vec를 이용하여 미세먼지 관련 키워드 분석
+
+![4](https://user-images.githubusercontent.com/54871612/102212788-17be1e80-3f19-11eb-9657-e0bbb96a881c.png)
+* SNS 데이터 Konlpy를 활용해 형태소 분석을 통해 미세먼지의 변화에 따른 단어 빈도수 체크
+
+![3](https://user-images.githubusercontent.com/54871612/102212785-168cf180-3f19-11eb-9e42-f56156d2b2ec.png)
+* Linear Regression, Decision Tree, Random Forest 활용하여 모델 예측
+
+![2](https://user-images.githubusercontent.com/54871612/102212799-1bea3c00-3f19-11eb-9b9f-215c17d4d88a.png)
+* 최종 결과
 
 <hr/>
 git을 활용한 프로젝트 관리 (git 에 push 할 때 주의할 점)​
