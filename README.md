@@ -31,7 +31,7 @@
 ![12](https://user-images.githubusercontent.com/54871612/102211880-a16cec80-3f17-11eb-8b09-690b512babdb.png)
 * 데이터를 지역, 날짜 기준으로 통합
 
-![11](https://user-images.githubusercontent.com/54871612/102211880-a16cec80-3f17-11eb-8b09-690b512babdb.png)
+![11](https://user-images.githubusercontent.com/54871612/102211879-a0d45600-3f17-11eb-841d-9faa1a076888.png)
 * 전처리 및 시각화
 
 
