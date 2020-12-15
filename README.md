@@ -19,15 +19,16 @@
 <hr/>
 #### 1) 데이터 EDA
 
-![6](https://user-images.githubusercontent.com/54871612/102211876-9fa32900-3f17-11eb-9721-33973593ab03.png)
-![8](https://user-images.githubusercontent.com/54871612/102211878-a03bbf80-3f17-11eb-9406-e66a96357c5b.png)
-![11](https://user-images.githubusercontent.com/54871612/102211879-a0d45600-3f17-11eb-841d-9faa1a076888.png)
-![12](https://user-images.githubusercontent.com/54871612/102211880-a16cec80-3f17-11eb-8b09-690b512babdb.png)
-![13](https://user-images.githubusercontent.com/54871612/102211881-a16cec80-3f17-11eb-9159-83cac2dc4859.png)
-![14](https://user-images.githubusercontent.com/54871612/102211885-a2058300-3f17-11eb-859d-77f4c0570a18.png)
 ![15](https://user-images.githubusercontent.com/54871612/102211886-a2058300-3f17-11eb-953d-030368a0b549.png)
-
-
+* 데이터 분석
+![14](https://user-images.githubusercontent.com/54871612/102211885-a2058300-3f17-11eb-859d-77f4c0570a18.png)
+* 데이터 별 공통 데이터를 찾아 기준으로 삼고 통합, 숫자형이 아닌 데이터들 숫자로 인코딩
+![13](https://user-images.githubusercontent.com/54871612/102211881-a16cec80-3f17-11eb-9159-83cac2dc4859.png)
+* 결측치 처리, 이상치는 Isolation Forest 알고리즘 사용하여 제거
+![12](https://user-images.githubusercontent.com/54871612/102211880-a16cec80-3f17-11eb-8b09-690b512babdb.png)
+* 데이터를 지역, 날짜 기준으로 통합
+![12](https://user-images.githubusercontent.com/54871612/102211880-a16cec80-3f17-11eb-8b09-690b512babdb.png)
+* 전처리 및 시각화
 
 
 <hr/>
