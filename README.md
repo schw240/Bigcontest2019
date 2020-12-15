@@ -18,6 +18,7 @@
 ### 3. 기능구현
 <hr/>
 #### 1) 데이터 EDA
+
 ![6](https://user-images.githubusercontent.com/54871612/102211876-9fa32900-3f17-11eb-9721-33973593ab03.png)
 ![8](https://user-images.githubusercontent.com/54871612/102211878-a03bbf80-3f17-11eb-9406-e66a96357c5b.png)
 ![11](https://user-images.githubusercontent.com/54871612/102211879-a0d45600-3f17-11eb-841d-9faa1a076888.png)
